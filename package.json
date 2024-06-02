@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "version": "2.0.0",
-  "description": "",
+  "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки дополнительных возможностей [обратись к документации](https://parceljs.org/).",
   "homepage": "https://Demouser702.github.io/Weather-App",
   "scripts": {
     "start": "parcel src/*.html",
@@ -12,12 +12,13 @@
     "url": "git+https://github.com/Demouser702/Weather-App.git"
   },
   "keywords": [],
-  "author": "roxanapascaru <roxanapascaru@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Demouser702/Weather-App/issues"
   },
   "dependencies": {
+    "countries-state-list": "^1.1.0",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
